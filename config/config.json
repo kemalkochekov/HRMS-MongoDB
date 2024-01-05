@@ -1,0 +1,12 @@
+{
+  "Server": {
+    "Host": "localhost:8080"
+  },
+  "MongoDb" :{
+    "Host": "localhost",
+    "Port": 27017,
+    "User": "mongo",
+    "Password": "test",
+    "DBName": "fiber_hrms"
+  }
+}
