@@ -10,5 +10,3 @@ services:
       MONGO_INITDB_ROOT_USERNAME: mongo
       MONGO_INITDB_ROOT_PASSWORD: test
       MONGO_DBNAME: fiber_hrms
-    volumes:
-      - ./mongo_data:/data/db   # Assuming you want to persist MongoDB data
